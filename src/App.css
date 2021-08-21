@@ -1,38 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,300&display=swap");
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
+.App-body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+}
+
+.App-body h1 {
+  color: #f45d48;
+  font-family: "Roboto", "Arial Narrow", Arial, sans-serif;
+  text-align: left;
+  font-size: calc(10px + 5vmin);
+  margin-bottom: 0.5em;
+  margin-top: 0.25em;
+}
+
+.App-body h2 {
+  color: #222525;
+  font-family: "Roboto", "Arial Narrow", Arial, sans-serif;
+  font-size: calc(10px + 3.5vmin);
+  text-align: left;
+  font-weight: 400;
+  padding-top: 0.5em;
+}
+
+.App-body h3 {
+  color: #222525;
+  font-family: "Roboto", "Arial Narrow", Arial, sans-serif;
+  font-size: calc(10px + 1.5vmin);
+  text-align: left;
+  padding-top: 1em;
+  padding-bottom: 0.3em;
+  font-weight: 400;
+}
+
+.App-body p {
+  color: #222525;
+  font-family: "Roboto", "Arial Narrow", Arial, sans-serif;
+  font-size: calc(10px + 1vmin);
+  text-align: left;
+  padding-inline: 1em;
+  font-weight: 300;
+}
+
+.footer p {
+  text-indent: -1.5em;
+  padding-left: 1.5em;
+}
+
+p strong {
+  font-weight: 500;
+}
+
+.Tan {
+  background-color: #f8f5f2;
+  padding-inline: 4em;
+  padding-block: 1em;
+}
+
+.White {
+  background-color: #ffffff;
+  padding-inline: 4em;
+  padding-block: 1em;
 }
 
 .App-link {
   color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
