@@ -15,6 +15,9 @@ import SpecDis1 from "./img/specdis1.svg";
 import IIDP from "./img/iidp.svg";
 import Foot from "./img/foot.svg";
 
+//statement
+import aState from "./statement/statement.pdf";
+
 function App() {
   return (
     <div className="App">
@@ -30,6 +33,21 @@ function App() {
               >
                 <div className="imageHolder">
                   <Image src={HeaderImage} fluid className="headerImg" />
+                  <br />
+                  <p className="statement">
+                    <small>
+                      <small>
+                        <i>
+                          Written, designed, and built by Pavel Batalov and
+                          Tatum Lindquist
+                        </i>
+                        <br />
+                        <a href={aState} target="blank">
+                          Artists' Statement
+                        </a>
+                      </small>
+                    </small>
+                  </p>
                 </div>
               </Col>
               <Col>
@@ -46,8 +64,9 @@ function App() {
                   This website strives to promote awareness around inclusive
                   design practices and principles,{" "}
                   <strong>
-                    empowering everyone to design with themselves and others in
-                    mind.
+                    empowering everyone to design intentionally and thoughtfully
+                    in a way that enhances lives by resisting interlocking
+                    systems of oppression.
                   </strong>
                 </p>
               </Col>

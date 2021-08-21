@@ -68,6 +68,11 @@ p strong {
   padding-block: 1em;
 }
 
+.App-body .statement {
+  font-size: calc(10px + 1vmin);
+  text-align: center;
+}
+
 .App-link {
   color: #61dafb;
 }
