@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/gwss200/static/css/main.c890d4f2.chunk.css",
-    "main.js": "/gwss200/static/js/main.a44c68d1.chunk.js",
-    "main.js.map": "/gwss200/static/js/main.a44c68d1.chunk.js.map",
+    "main.css": "/gwss200/static/css/main.6dc8fcf5.chunk.css",
+    "main.js": "/gwss200/static/js/main.164f58bb.chunk.js",
+    "main.js.map": "/gwss200/static/js/main.164f58bb.chunk.js.map",
     "runtime-main.js": "/gwss200/static/js/runtime-main.54e28e55.js",
     "runtime-main.js.map": "/gwss200/static/js/runtime-main.54e28e55.js.map",
     "static/css/2.818011ed.chunk.css": "/gwss200/static/css/2.818011ed.chunk.css",
-    "static/js/2.7346bfdb.chunk.js": "/gwss200/static/js/2.7346bfdb.chunk.js",
-    "static/js/2.7346bfdb.chunk.js.map": "/gwss200/static/js/2.7346bfdb.chunk.js.map",
+    "static/js/2.2c575b28.chunk.js": "/gwss200/static/js/2.2c575b28.chunk.js",
+    "static/js/2.2c575b28.chunk.js.map": "/gwss200/static/js/2.2c575b28.chunk.js.map",
     "index.html": "/gwss200/index.html",
     "static/css/2.818011ed.chunk.css.map": "/gwss200/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.c890d4f2.chunk.css.map": "/gwss200/static/css/main.c890d4f2.chunk.css.map",
-    "static/js/2.7346bfdb.chunk.js.LICENSE.txt": "/gwss200/static/js/2.7346bfdb.chunk.js.LICENSE.txt",
+    "static/css/main.6dc8fcf5.chunk.css.map": "/gwss200/static/css/main.6dc8fcf5.chunk.css.map",
+    "static/js/2.2c575b28.chunk.js.LICENSE.txt": "/gwss200/static/js/2.2c575b28.chunk.js.LICENSE.txt",
     "static/media/dbias.6bee89f1.svg": "/gwss200/static/media/dbias.6bee89f1.svg",
     "static/media/dbias1.15f8986b.svg": "/gwss200/static/media/dbias1.15f8986b.svg",
     "static/media/excexp.30b9a56f.svg": "/gwss200/static/media/excexp.30b9a56f.svg",
@@ -20,13 +20,14 @@
     "static/media/incexc.07f611a4.svg": "/gwss200/static/media/incexc.07f611a4.svg",
     "static/media/main.8fa3378c.svg": "/gwss200/static/media/main.8fa3378c.svg",
     "static/media/specdis.ff78081c.svg": "/gwss200/static/media/specdis.ff78081c.svg",
-    "static/media/specdis1.38d41b32.svg": "/gwss200/static/media/specdis1.38d41b32.svg"
+    "static/media/specdis1.38d41b32.svg": "/gwss200/static/media/specdis1.38d41b32.svg",
+    "static/media/statement.a05fc035.pdf": "/gwss200/static/media/statement.a05fc035.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.54e28e55.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.7346bfdb.chunk.js",
-    "static/css/main.c890d4f2.chunk.css",
-    "static/js/main.a44c68d1.chunk.js"
+    "static/js/2.2c575b28.chunk.js",
+    "static/css/main.6dc8fcf5.chunk.css",
+    "static/js/main.164f58bb.chunk.js"
   ]
 }
